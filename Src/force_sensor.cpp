@@ -1,4 +1,4 @@
-#include "force_sensor.hpp"
+#include "force_sensor.h"
 
 float ForceSensor::getForceValue()
 {

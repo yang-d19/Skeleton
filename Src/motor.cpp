@@ -1,4 +1,4 @@
-#include "motor.hpp"
+#include "motor.h"
 
 void Motor::run(float power)
 {
